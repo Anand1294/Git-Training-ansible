@@ -4,3 +4,5 @@
   tasks:
   - name: 'Executing a command'
     command: date
+  - name: 'Task2'
+    command: free -h
