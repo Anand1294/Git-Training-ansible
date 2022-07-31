@@ -6,3 +6,6 @@
     command: date
   - name: 'Task2'
     command: free -h
+  - name: 'Task3'
+    debug:
+    - msg: "Printing a message"
